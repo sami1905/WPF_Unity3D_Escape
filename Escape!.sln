@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape!", "Assembly-CSharp-firstpass.csproj", "{8CAA91DC-696B-B66B-8BD4-BA95D817262F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape!", "Assembly-CSharp.csproj", "{11BCC2A4-477B-D8E9-3CFD-852DE1969059}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape!", "Assembly-CSharp-Editor-firstpass.csproj", "{4270FA20-175A-4F46-7A82-F34016A38392}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{8CAA91DC-696B-B66B-8BD4-BA95D817262F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CAA91DC-696B-B66B-8BD4-BA95D817262F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CAA91DC-696B-B66B-8BD4-BA95D817262F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BCC2A4-477B-D8E9-3CFD-852DE1969059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BCC2A4-477B-D8E9-3CFD-852DE1969059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BCC2A4-477B-D8E9-3CFD-852DE1969059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BCC2A4-477B-D8E9-3CFD-852DE1969059}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4270FA20-175A-4F46-7A82-F34016A38392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4270FA20-175A-4F46-7A82-F34016A38392}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4270FA20-175A-4F46-7A82-F34016A38392}.Release|Any CPU.ActiveCfg = Release|Any CPU
