@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\DoorScript.cs" />
+    <Compile Include="Assets\Scripts\FirstPerson_Script.cs" />
     <None Include="Assets\Materials\mahogfloor-Unity\About these PBR files.txt" />
     <None Include="Assets\Materials\harshbricks-Unity\About these PBR files.txt" />
     <None Include="Assets\Materials\agedplanks1-unity\About these PBR files.txt" />
