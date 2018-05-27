@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{11BCC2A4-477B-D8E9-3CFD-852DE1969059}</ProjectGuid>
+    <ProjectGuid>{8B6DAC79-4446-1BB4-D214-76027DD16020}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -69,10 +69,10 @@
     <None Include="Assets\Materials\dungeon-stone1-Unity\About these PBR files.txt" />
     <None Include="Assets\Materials\rough-plaster-ue4\About these PBR files.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/Sami/FHK/8. Semester/WPF/Escape!/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/Sami/FHK/8. Semester/WPF/github/WPF_Unity_Escape-/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/Sami/FHK/8. Semester/WPF/Escape!/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/Sami/FHK/8. Semester/WPF/github/WPF_Unity_Escape-/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -308,7 +308,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{8CAA91DC-696B-B66B-8BD4-BA95D817262F}</Project>
+      <Project>{E4E4637D-E66D-32F7-F327-F3C7227A29C1}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
