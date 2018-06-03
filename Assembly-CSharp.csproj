@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\DoorScript.cs" />
+    <Compile Include="Assets\Scripts\LoadLevel1.cs" />
     <Compile Include="Assets\Scripts\LoadLevel2.cs" />
     <None Include="Assets\Materials\mahogfloor-Unity\About these PBR files.txt" />
     <None Include="Assets\Materials\paint-peeling-Unreal-Engine\About these PBR files.txt" />
