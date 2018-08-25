@@ -1,0 +1,2 @@
+/Users/Sami/FHK/8. Semester/WPF/Escape!/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/Sami/FHK/8. Semester/WPF/Escape!/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

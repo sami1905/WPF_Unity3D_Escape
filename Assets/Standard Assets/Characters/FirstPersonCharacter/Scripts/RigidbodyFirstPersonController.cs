@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 
@@ -9,6 +9,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
     [RequireComponent(typeof (CapsuleCollider))]
     public class RigidbodyFirstPersonController : MonoBehaviour
     {
+		
+
         [Serializable]
         public class MovementSettings
         {
@@ -124,6 +126,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
             m_RigidBody = GetComponent<Rigidbody>();
             m_Capsule = GetComponent<CapsuleCollider>();
             mouseLook.Init (transform, cam.transform);
+
+      
         }
 
 
@@ -136,6 +140,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
                 m_Jump = true;
             }*/
         }
+
+
 
 
         private void FixedUpdate()

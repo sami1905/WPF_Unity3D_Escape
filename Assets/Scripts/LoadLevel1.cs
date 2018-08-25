@@ -12,6 +12,7 @@ public class LoadLevel1 : MonoBehaviour
     void Start()
     {
 		timerSeconds = GetComponent<Text>();
+
     }
 
     // Update is called once per frame
