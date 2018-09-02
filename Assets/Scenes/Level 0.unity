@@ -408,7 +408,7 @@ Prefab:
     - target: {fileID: 114295733546256268, guid: ddc173286dc854ab5be76b9e43d05777,
         type: 2}
       propertyPath: sounds.Array.size
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4456561242841932, guid: ddc173286dc854ab5be76b9e43d05777, type: 2}
       propertyPath: m_LocalPosition.x
@@ -485,7 +485,7 @@ Prefab:
     - target: {fileID: 114295733546256268, guid: ddc173286dc854ab5be76b9e43d05777,
         type: 2}
       propertyPath: sounds.Array.data[3].volume
-      value: 1
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 114295733546256268, guid: ddc173286dc854ab5be76b9e43d05777,
         type: 2}
@@ -501,7 +501,7 @@ Prefab:
         type: 2}
       propertyPath: sounds.Array.data[4].clip
       value: 
-      objectReference: {fileID: 8300000, guid: 3f1286952c33e4b448b8814d6223945a, type: 3}
+      objectReference: {fileID: 8300000, guid: 5fc2d8adaa180440d9761304dcea039c, type: 3}
     - target: {fileID: 114295733546256268, guid: ddc173286dc854ab5be76b9e43d05777,
         type: 2}
       propertyPath: sounds.Array.data[4].volume
@@ -521,7 +521,7 @@ Prefab:
         type: 2}
       propertyPath: sounds.Array.data[5].clip
       value: 
-      objectReference: {fileID: 8300000, guid: 29cb6bc940ab040648d70d737c252e22, type: 3}
+      objectReference: {fileID: 8300000, guid: 0df35220e1d1247b6a3ae3a35df94677, type: 3}
     - target: {fileID: 114295733546256268, guid: ddc173286dc854ab5be76b9e43d05777,
         type: 2}
       propertyPath: sounds.Array.data[5].volume
@@ -535,13 +535,13 @@ Prefab:
     - target: {fileID: 114295733546256268, guid: ddc173286dc854ab5be76b9e43d05777,
         type: 2}
       propertyPath: sounds.Array.data[6].name
-      value: LockedDoor
+      value: Whisper
       objectReference: {fileID: 0}
     - target: {fileID: 114295733546256268, guid: ddc173286dc854ab5be76b9e43d05777,
         type: 2}
       propertyPath: sounds.Array.data[6].clip
       value: 
-      objectReference: {fileID: 8300000, guid: d12d216c734804382ab8360cbe248f91, type: 3}
+      objectReference: {fileID: 8300000, guid: 743c635003c9e49f695e9508d238327f, type: 3}
     - target: {fileID: 114295733546256268, guid: ddc173286dc854ab5be76b9e43d05777,
         type: 2}
       propertyPath: sounds.Array.data[6].volume

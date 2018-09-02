@@ -22,6 +22,7 @@ public class KnockOnDoor : MonoBehaviour
         _animator.SetBool("open", false);
 		locked = true;
 		flt = 0.0f;
+		OpenDoorWithKey.locked = false;
 
     }
 
